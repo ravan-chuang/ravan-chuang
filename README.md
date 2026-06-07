@@ -9,7 +9,7 @@ Computer Science student at Tunghai University, interested in machine learning, 
 - Evaluated 4,000 AG News samples with 384-dimensional embeddings
 - Achieved approximately 8× compression while maintaining Top-5 Recall above 0.90
 
-### Dynamic Payment Plugin Platform
+### [Dynamic Payment Plugin Platform](https://github.com/ravan-chuang/payment-plugin-platform)
 - Built a Linux payment platform in C using `dlopen` and `dlsym`
 - Implemented credit card, LINE Pay, and PayPal shared-library plugins
 - Added plugin validation, transaction logging, and automated demo scripts
